@@ -88,7 +88,7 @@ comments: {
 
 ```js
 author: {
-    name: '정진혁',
+    name: '김준영',
     bio: {
       role: '개발자',
       description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
