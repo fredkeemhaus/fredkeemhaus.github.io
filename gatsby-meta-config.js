@@ -43,12 +43,12 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
+        date: '2021.11 ~',
+        activity: '개인 블로그 만들어보기 및 운영',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          // github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          demo: 'https://fredkeemhaus.github.io',
         },
       },
     ],
