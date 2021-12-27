@@ -142,7 +142,7 @@ about 페이지 또한 gatsby-meta-config.js를 통해 생성됩니다. about �
   links: {
     post: '/gatsby-starter-zoomkoding-introduction',
     github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-    demo: 'https://www.zoomkoding.com',
+    demo: 'https://fredkeemhaus.github.io',
   },
 },
 ```
@@ -161,7 +161,7 @@ about 페이지 또한 gatsby-meta-config.js를 통해 생성됩니다. about �
   links: {
     post: '/gatsby-starter-zoomkoding-introduction',
     github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-    demo: 'https://www.zoomkoding.com',
+    demo: 'https://fredkeemhaus.github.io',
   }
 }
 ```
