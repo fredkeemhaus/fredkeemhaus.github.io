@@ -1,6 +1,6 @@
 ---
 emoji: 🧢
-title: [PintOS]-Thread
+title: PintOS - Thread
 date: '2021-12-28 15:00:00'
 author: 프레드
 tags: 운영체제 PintOS SWjungle
